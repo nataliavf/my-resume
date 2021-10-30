@@ -1,0 +1,32 @@
+H1 {
+color:rgb(133, 105, 160);
+}
+
+H2 { color:cornflowerblue;}
+
+.dato {
+
+}
+
+.texto {color: rgb(250, 60, 250);}
+
+.texto span {
+
+    text-transform: uppercase; font-family: fantasy;
+
+}
+
+
+.contenedor {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: fuchsia;
+}
+
+.izquierda {
+}
+
+.derecha {
+}
